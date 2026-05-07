@@ -83,3 +83,5 @@ const products = [
       "; Product price: " + products[i].price +
       "; Discount: " + products[i].discount + "%");
     }
+
+console.log("Hello I M commiting")
